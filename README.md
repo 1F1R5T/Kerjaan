@@ -17,9 +17,19 @@ Mengelola data keuangan sesuai dengan data dilapangan
 
 <b>Cara Penggunaan nya : </b>
 
-Buat database dengan nama "kerjaan"
-Import file sql nya
-Jangan lupa untuk menaruh folder kerjaan di htdocs ya ( ini buat yang lagi belajar )
-Setelah itu coba jalankan di localhost kalian.
+<p>Extrack terlebih dahulu</p>
+<p>Buat database dengan nama "kerjaan"</p>
+<p>Import file sql nya</p>
+<p>Jangan lupa untuk menaruh folder kerjaan di htdocs ya ( ini buat yang lagi belajar )</p>
+<p>Setelah itu coba jalankan di localhost kalian.</p>
+
+<b>V1 :</b>
+<p>Pada versi pertama ini banyak sekali bug dan ada beberapa file hilang ketika saya upload</p>
+
+<b>V2 :</b>
+<p>Pada versi kedua ini saya memperbarui semuanya mulai dari tampilan hingga responsive web nya</p>
+
+<p>Silahkan Kirimkan Saran dan Kritik kamu melalui</p>
+<p>Email saya "imantech@merahputih.id"</p>
 
 Terimakasih.
