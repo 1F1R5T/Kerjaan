@@ -2,11 +2,11 @@
 Aplikasi berbasis Website
 <br>
 
-Dengan Nama Kerjaan
 Hasil Proyek Prakerin 
 <br>
 
 <b>PT.SUCOFINDO Cabang Cirebon</b>
+<p>Dengan Nama Proyek <b>"Kerjaan"</b></p>
 <br>
 
 Memiliki feature website
@@ -36,6 +36,10 @@ Mengelola data keuangan sesuai dengan data dilapangan
 
 <b>V2 :</b>
 <p>Pada versi kedua ini saya memperbarui semuanya mulai dari tampilan hingga responsive web nya</p>
+<br>
+
+<b>V3 :</b>
+<p>Pada versi ketiga ini saya memperbarui icon dan juga sekaligus mengganti beberapa nama</p>
 <br>
 
 <p>Silahkan Kirimkan Saran dan Kritik kamu melalui</p>
