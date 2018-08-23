@@ -14,7 +14,20 @@ Memiliki feature website
 Mengelola data keuangan sesuai dengan data dilapangan
 <br>
 
-[URL=http://s682.photobucket.com/user/imancrb/media/Screenshot_2018-08-23%20Kerjaan%20-%20Management%20Your%20Money1_zpslnujkop9.png.html][IMG]http://i682.photobucket.com/albums/vv183/imancrb/Screenshot_2018-08-23%20Kerjaan%20-%20Management%20Your%20Money1_zpslnujkop9.png[/IMG][/URL]
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://4.bp.blogspot.com/-zF6fRFUHDLA/W35V6CA9aaI/AAAAAAAAB6Y/8YgWqYGOuFY4DsN_jQUS5a6Pk9XRD1pcwCLcBGAs/s1600/Screenshot_2018-08-23%2BKerjaan%2B-%2BManagement%2BYour%2BMoney%25281%2529.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="709" data-original-width="1343" height="168" src="https://4.bp.blogspot.com/-zF6fRFUHDLA/W35V6CA9aaI/AAAAAAAAB6Y/8YgWqYGOuFY4DsN_jQUS5a6Pk9XRD1pcwCLcBGAs/s320/Screenshot_2018-08-23%2BKerjaan%2B-%2BManagement%2BYour%2BMoney%25281%2529.png" width="320" /></a></div>
+
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://2.bp.blogspot.com/-zOAcW-r3vSA/W35V60f-k8I/AAAAAAAAB6c/BJ3YoCSpZ0gsDt9I5_KZ9T4Jw_b5AV0-ACLcBGAs/s1600/Screenshot_2018-08-23%2BKerjaan%2B-%2BManagement%2BYour%2BMoney%25282%2529.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="721" data-original-width="1338" height="172" src="https://2.bp.blogspot.com/-zOAcW-r3vSA/W35V60f-k8I/AAAAAAAAB6c/BJ3YoCSpZ0gsDt9I5_KZ9T4Jw_b5AV0-ACLcBGAs/s320/Screenshot_2018-08-23%2BKerjaan%2B-%2BManagement%2BYour%2BMoney%25282%2529.png" width="320" /></a></div>
+
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://4.bp.blogspot.com/-f8FOZrjHfPI/W35V7GQn-8I/AAAAAAAAB6g/-n99wJW6oI8CBnirBanOM4JJfd8ueM5OwCLcBGAs/s1600/Screenshot_2018-08-23%2BKerjaan%2B-%2BManagement%2BYour%2BMoney%25283%2529.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="686" data-original-width="1332" height="164" src="https://4.bp.blogspot.com/-f8FOZrjHfPI/W35V7GQn-8I/AAAAAAAAB6g/-n99wJW6oI8CBnirBanOM4JJfd8ueM5OwCLcBGAs/s320/Screenshot_2018-08-23%2BKerjaan%2B-%2BManagement%2BYour%2BMoney%25283%2529.png" width="320" /></a></div>
+
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://2.bp.blogspot.com/-WvjzexsZDFw/W35V7n3c5EI/AAAAAAAAB6k/D_ah0HweOc8M9b8n8pw6XZugu0gpEEYHQCLcBGAs/s1600/Screenshot_2018-08-23%2BKerjaan%2B-%2BManagement%2BYour%2BMoney.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="693" data-original-width="1366" height="162" src="https://2.bp.blogspot.com/-WvjzexsZDFw/W35V7n3c5EI/AAAAAAAAB6k/D_ah0HweOc8M9b8n8pw6XZugu0gpEEYHQCLcBGAs/s320/Screenshot_2018-08-23%2BKerjaan%2B-%2BManagement%2BYour%2BMoney.png" width="320" /></a></div>
+
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://3.bp.blogspot.com/-Cnb0M0VaG4M/W35V8HQiydI/AAAAAAAAB6o/lZxlXWcbPv4hqcn4Y1gGlpacg4IFgSTjgCLcBGAs/s1600/Screenshot_2018-08-23%2Blocalhost%2B127%2B0%2B0%2B1%2Bkerjaan%2BphpMyAdmin%2B4%2B8%2B1.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="168" data-original-width="1177" height="45" src="https://3.bp.blogspot.com/-Cnb0M0VaG4M/W35V8HQiydI/AAAAAAAAB6o/lZxlXWcbPv4hqcn4Y1gGlpacg4IFgSTjgCLcBGAs/s320/Screenshot_2018-08-23%2Blocalhost%2B127%2B0%2B0%2B1%2Bkerjaan%2BphpMyAdmin%2B4%2B8%2B1.png" width="320" /></a></div>
 <br>
 
 <b>Cara Penggunaan nya : </b>
