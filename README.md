@@ -14,7 +14,7 @@ Memiliki feature website
 Mengelola data keuangan sesuai dengan data dilapangan
 <br>
 
-[URL=http://s682.photobucket.com/user/imancrb/media/Screenshot_2018-08-23%20Kerjaan%20-%20Management%20Your%20Money1_zpslnujkop9.png.html][IMG]http://i682.photobucket.com/albums/vv183/imancrb/Screenshot_2018-08-23%20Kerjaan%20-%20Management%20Your%20Money1_zpslnujkop9.png[/IMG][/URL]
+[IMG]http://i682.photobucket.com/albums/vv183/imancrb/Screenshot_2018-08-23%20Kerjaan%20-%20Management%20Your%20Money1_zpslnujkop9.png[/IMG]
 [URL=http://s682.photobucket.com/user/imancrb/media/Screenshot_2018-08-23%20Kerjaan%20-%20Management%20Your%20Money1_zpslnujkop9.png.html][IMG]http://i682.photobucket.com/albums/vv183/imancrb/Screenshot_2018-08-23%20Kerjaan%20-%20Management%20Your%20Money1_zpslnujkop9.png[/IMG][/URL]
 [URL=http://s682.photobucket.com/user/imancrb/media/Screenshot_2018-08-23%20Kerjaan%20-%20Management%20Your%20Money1_zpslnujkop9.png.html][IMG]http://i682.photobucket.com/albums/vv183/imancrb/Screenshot_2018-08-23%20Kerjaan%20-%20Management%20Your%20Money1_zpslnujkop9.png[/IMG][/URL]
 [URL=http://s682.photobucket.com/user/imancrb/media/Screenshot_2018-08-23%20Kerjaan%20-%20Management%20Your%20Money1_zpslnujkop9.png.html][IMG]http://i682.photobucket.com/albums/vv183/imancrb/Screenshot_2018-08-23%20Kerjaan%20-%20Management%20Your%20Money1_zpslnujkop9.png[/IMG][/URL]
